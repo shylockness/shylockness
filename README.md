@@ -4,8 +4,8 @@
 - 🌱 I’m currently (re)learning a ton of stuff. Here's a partial list
   - **TDD** using Swift and SwiftUI
   - **Architectural patterns**
-  - **DSA** (always loved my Algorithms during my college years)
-- 💞️ I’m a mentor and a mentee. I learn from both.
+  - **DSA** (always loved any Algorithms course during my college years)
+- 💞️ I’m a **mentor** and a mentee. I learn from both.
 - 📫 How to reach me
   - LinkedIn: https://www.linkedin.com/in/carlosales/
 - ⚡ Fun facts:
